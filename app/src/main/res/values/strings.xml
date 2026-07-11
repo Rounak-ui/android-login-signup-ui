@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">horn_sample</string>
+
+    <string name="terms_text">
+    By continuing, you agree to our <b>Terms of Service</b> and <b>Privacy Policy</b>.
+    </string>
+</resources>
